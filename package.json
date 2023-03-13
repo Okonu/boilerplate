@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ian Okonu",
+	"description": "I will be working with the package",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -11,5 +12,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"keywords": [ "freecodecamp", "microservice", "guide" ]
 }
